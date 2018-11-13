@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hi there From Azure!"
+    return "Hi there From MedData!"
